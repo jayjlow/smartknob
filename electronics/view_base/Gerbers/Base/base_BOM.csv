@@ -1,0 +1,17 @@
+Comment,Designator,Footprint,LCSC Part #
+"0.1uF Unpolarized capacitor, small symbol","C1,C2,C3,C4,C5,C6,C7,C8,C11,C12,C14,C15,C17,C19,C20,C21,C22,C23,C25,C27,C29",C_0603_1608Metric,C14663
+"10uF Unpolarized capacitor, small symbol","C9,C10,C16,C18,C24,C26",C_0805_2012Metric,C15850
+SK6812SIDE-A RGB LED with integrated controller,"D1,D2,D3,D4,D5,D6,D7,D8",SK6812-SIDE-A,C2890037
+"BLDC Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J1,532610371,C293630
+USB_C_Receptacle_USB2.0 USB 2.0-only Type-C Receptacle connector,J2,USB4510_NoPaste,C428463
+"3.3uH Inductor, small symbol",L1,L_0805_2012Metric,C98331
+"5.1k Resistor, small symbol","R1,R2",R_0603_1608Metric,C23186
+"10k Resistor, small symbol","R3,R7,R8,R9,R10,R11,R12,R17",R_0603_1608Metric,C25804
+"8.2k Resistor, small symbol",R4,R_0603_1608Metric,C25981
+"100 Resistor, small symbol","R5,R6",R_0603_1608Metric,C22775
+"2.2k Resistor, small symbol","R13,R14,R15,R16",R_0603_1608Metric,C4190
+MT6701-CT ,U1,SOIC-8_3.9x4.9mm_P1.27mm,C2856764
+"CH340C USB serial converter, UART, SOIC-16",U3,SOIC-16_3.9x9.9mm_P1.27mm,C84681
+HX711 ,U4,SOIC-16_3.9x9.9mm_P1.27mm,C43656
+"AP2114HA-3.3 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223",U6,SOT-223-3_TabPin2,C6186
+VEML7700 ,U8,VEML7700-TOP,C1850416

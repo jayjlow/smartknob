@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC Part #
+"22uF Unpolarized capacitor, small symbol",C1,C_0805_2012Metric,C98190
+"0.1uF Unpolarized capacitor, small symbol",C2,C_0603_1608Metric,C1591
+"2N7002 0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23",Q1,SOT-23,2N7002
+"10k Resistor, small symbol",R1,R_0603_1608Metric,C25804
+"22R Resistor, small symbol",R2,R_0603_1608Metric,C23345
+"1M Resistor, small symbol",R3,R_0603_1608Metric,C22935
